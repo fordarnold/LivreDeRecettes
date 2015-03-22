@@ -14,5 +14,5 @@ http://code.tutsplus.com/tutorials/building-rest-apis-using-eve--cms-22961
 
 ### License
 
-[MIT License](http://choosealicense.com/licenses/mit)
+[MIT License](http://choosealicense.com/licenses/mit).
 You can use this code without restrictions.
