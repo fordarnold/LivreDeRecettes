@@ -1,0 +1,7 @@
+# General
+*.mp4
+*.mov
+*.mp3
+
+# Python
+/venv
