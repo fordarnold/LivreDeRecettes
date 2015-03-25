@@ -2,6 +2,34 @@
 *.mp4
 *.mov
 *.mp3
+.DS_Store
 
 # Python
 /venv
+include
+lib
+.Python
+.project
+*.pyc
+*.pyo
+*.egg
+*.egg-info
+bin
+build
+dist
+sdist
+eggs
+env
+parts
+var
+develop-eggs
+.installed.cfg
+*.[oa]
+*.rbc
+
+# Pip Installer Log
+pip-log.txt
+
+# Unit test / coverage
+.coverage
+.tox

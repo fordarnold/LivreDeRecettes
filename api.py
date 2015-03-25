@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from eve import Eve
 
 # initialise Eve application
